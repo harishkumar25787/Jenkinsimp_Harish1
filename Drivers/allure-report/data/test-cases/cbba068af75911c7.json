@@ -1,0 +1,60 @@
+{
+  "uid" : "cbba068af75911c7",
+  "name" : "test_hero.test_authencation",
+  "fullName" : "heroapp.test_hero.test_authencation",
+  "historyId" : "1cce6f4af0d09265c4fce7d696d1def9",
+  "time" : {
+    "start" : 1536756475727,
+    "stop" : 1536756484817,
+    "duration" : 9090
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "XTV-HSHOLAPUR"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "thread",
+    "value" : "14376-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "heroapp"
+  }, {
+    "name" : "testClass",
+    "value" : "heroapp"
+  }, {
+    "name" : "testMethod",
+    "value" : "test_hero.test_authencation"
+  }, {
+    "name" : "package",
+    "value" : "heroapp"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "cbba068af75911c7.json",
+  "parameterValues" : [ ]
+}

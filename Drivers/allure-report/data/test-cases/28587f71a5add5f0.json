@@ -1,0 +1,60 @@
+{
+  "uid" : "28587f71a5add5f0",
+  "name" : "test_hero.test_javascriptpop",
+  "fullName" : "heroapp.test_hero.test_javascriptpop",
+  "historyId" : "50324d43c99ecce19ee055de243186fd",
+  "time" : {
+    "start" : 1536756548816,
+    "stop" : 1536756575348,
+    "duration" : 26532
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "XTV-HSHOLAPUR"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "thread",
+    "value" : "14376-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "heroapp"
+  }, {
+    "name" : "testClass",
+    "value" : "heroapp"
+  }, {
+    "name" : "testMethod",
+    "value" : "test_hero.test_javascriptpop"
+  }, {
+    "name" : "package",
+    "value" : "heroapp"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "28587f71a5add5f0.json",
+  "parameterValues" : [ ]
+}

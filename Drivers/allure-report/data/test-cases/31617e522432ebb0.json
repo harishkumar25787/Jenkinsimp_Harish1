@@ -1,0 +1,60 @@
+{
+  "uid" : "31617e522432ebb0",
+  "name" : "test_hero.test_mouseover",
+  "fullName" : "heroapp.test_hero.test_mouseover",
+  "historyId" : "4fea855921c9b7ede2b1e287e43fb446",
+  "time" : {
+    "start" : 1536756575349,
+    "stop" : 1536756591822,
+    "duration" : 16473
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "XTV-HSHOLAPUR"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "thread",
+    "value" : "14376-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "heroapp"
+  }, {
+    "name" : "testClass",
+    "value" : "heroapp"
+  }, {
+    "name" : "testMethod",
+    "value" : "test_hero.test_mouseover"
+  }, {
+    "name" : "package",
+    "value" : "heroapp"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "31617e522432ebb0.json",
+  "parameterValues" : [ ]
+}

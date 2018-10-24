@@ -1,0 +1,23 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1536921740764" stop="1536921740764">
+  <description>This is the tests collection phase. Failures are modules that failed to collect.</description>
+  <name>test_collection_phase</name>
+  <title>Collection phase</title>
+  <labels/>
+  <test-cases>
+    <test-case start="1536921740764" status="broken" stop="1536921740764">
+      <name>heroapp</name>
+      <failure>
+        <message>failed</message>
+        <stack-trace>ImportError while importing test module 'C:\Users\hsholapur\PycharmProjects\Jenkinsimp\Drivers\heroapp.py'.
+Hint: make sure your test modules/packages have valid Python names.
+Traceback:
+heroapp.py:5: in &lt;module&gt;
+    from Drivers.exceldata import getexceldata
+E   ModuleNotFoundError: No module named 'Drivers'</stack-trace>
+      </failure>
+      <attachments/>
+      <labels/>
+      <steps/>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>
